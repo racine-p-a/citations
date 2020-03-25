@@ -1,0 +1,171 @@
+{
+  "citations": {
+    "1": {
+      "author": "Patrice de Mac Mahon",
+      "keywords": [
+        "History",
+        "Army"
+      ],
+      "languages": {
+        "fr": "J'y suis, j'y reste."
+      }
+    }
+  },
+  "2": {
+    "author": "Duke Nukem",
+    "context": {
+      "all": "Duke Nukem 3D"
+    },
+    "keywords": [
+      "Videogame"
+    ],
+    "languages": {
+      "en": "It's time to kick ass and chew bubble gum, and I'm all outta gum!"
+    }
+  },
+  "3": {
+    "author": "Duke Nukem",
+    "context": {
+      "all": "Duke Nukem 3D"
+    },
+    "keywords": [
+      "Videogame",
+      "Insult"
+    ],
+    "languages": {
+      "en": "Your face, your ass, what's the difference?"
+    }
+  },
+  "4": {
+    "author": "Duke Nukem",
+    "context": {
+      "all": "Duke Nukem 3D"
+    },
+    "keywords": [
+      "Videogame",
+      "Insult"
+    ],
+    "languages": {
+      "en": "You're an inspiration for birth control!"
+    }
+  },
+  "5": {
+    "author": "Isaac Asimov",
+    "context": {
+      "fr": "L'univers de la science"
+    },
+    "keywords": [
+      "Science"
+    ],
+    "languages": {
+      "fr": "Si le savoir peut créer des problèmes, ce n'est pas l'ignorance qui les résoudra."
+    }
+  },
+  "6": {
+    "author": "Isaac Asimov",
+    "context": {
+      "fr": "Moi, Asimov"
+    },
+    "keywords": [
+      "Science"
+    ],
+    "languages": {
+      "fr": "La connaissance scientifique possède en quelque sorte des propriétés fractales: nous aurons beau accroître notre savoir, le reste -- si infime soit-il -- sera toujours aussi infiniment complexe que l'ensemble de départ."
+    }
+  },
+  "7": {
+    "author": "Isaac Asimov",
+    "context": {
+      "en": "Fondation",
+      "fr": "Fondation"
+    },
+    "keywords": [
+      "Litterature",
+      "Science",
+      "Wisdom"
+    ],
+    "languages": {
+      "en": "Violence is the last refuge of the incompetent.",
+      "fr": "La violence est le dernier refuge de l'incompétence."
+    }
+  },
+  "8": {
+    "author": "Raoul Volfoni",
+    "context": {
+      "fr": "Les Tontons flingueurs"
+    },
+    "keywords": [
+      "Movie",
+      "Punchline"
+    ],
+    "languages": {
+      "fr": "Bougez pas ! Les mains sur la table. Je vous préviens qu'on a la puissance de feu d'un croiseur et des flingues de concours."
+    }
+  },
+  "9": {
+    "author": "Monsieur Fernand",
+    "context": {
+      "fr": "Les Tontons flingueurs"
+    },
+    "keywords": [
+      "Movie",
+      "Punchline"
+    ],
+    "languages": {
+      "fr": "Trois morts subites en moins d'une demi-heure, ah ça part sévère les droits de succession."
+    }
+  },
+  "10": {
+    "author": "Monsieur Fernand",
+    "context": {
+      "fr": "Les Tontons flingueurs"
+    },
+    "keywords": [
+      "Insult",
+      "Movie",
+      "Punchline"
+    ],
+    "languages": {
+      "fr": "Les cons, ça ose tout ! C'est même à ça qu'on les reconnaît."
+    }
+  },
+  "11": {
+    "author": "Maître Folace",
+    "context": {
+      "fr": "Les Tontons flingueurs"
+    },
+    "keywords": [
+      "Humour",
+      "Movie"
+    ],
+    "languages": {
+      "fr": "On a dû arrêter la fabrication, y a des clients qui devenaient aveugles. Alors, ça faisait des histoires !"
+    }
+  },
+  "12": {
+    "author": "Théo",
+    "context": {
+      "fr": "Les Tontons flingueurs"
+    },
+    "keywords": [
+      "Humour",
+      "Movie"
+    ],
+    "languages": {
+      "fr": "La bave du crapaud n'empêche pas la caravane de passer !"
+    }
+  },
+  "13": {
+    "author": "Kadoc",
+    "context": {
+      "fr": "Kaamelott"
+    },
+    "keywords": [
+      "Humour",
+      "Movie"
+    ],
+    "languages": {
+      "fr": "À Kadoc !"
+    }
+  }
+}

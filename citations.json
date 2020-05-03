@@ -658,5 +658,19 @@
     "languages": {
       "fr": "La guerre est un massacre de gens qui ne se connaissent pas au profit de gens qui se connaissent mais ne se massacrent pas."
     }
+  },
+  "45": {
+  "author": {
+    "en": "Mark Twain",
+    "fr": "Mark Twain"
+  },
+  "keywords": [
+    "Humour",
+    "Statistics"
+  ],
+  "languages": {
+    "en": "Facts are stubborn, but statistics are more pliable.",
+    "fr": "Les faits sont têtus mais les statistiques sont plus accommodantes."
   }
+}
 }

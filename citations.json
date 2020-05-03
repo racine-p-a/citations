@@ -619,5 +619,44 @@
       "en": "It is not the strongest of the species that survive, but the one most responsive to change.",
       "fr": "Ce n'est pas l'espèce la plus forte qui survit mais celle qui s'adapte le mieux au changement."
     }
+  },
+  "42": {
+    "author": {
+      "en": "George Santayana",
+      "fr": "George Santayana"
+    },
+    "keywords": [
+      "Wisdom"
+    ],
+    "languages": {
+      "en": "Those who cannot remember the past are condemned to repeat it.",
+      "fr": "Ceux qui ne connaissent pas leur passé sont condamnés à le reproduire."
+    }
+  },
+  "43": {
+    "author": {
+      "en": "Franklin Delano Roosevelt",
+      "fr": "Franklin Delano Roosevelt"
+    },
+    "keywords": [
+      "Wisdom"
+    ],
+    "languages": {
+      "en": "The nation that destroys its soil destroys itself.",
+      "fr": "Une nation qui détruit son sol se détruit elle-même."
+    }
+  },
+  "44": {
+    "author": {
+      "en": "Paul Valery",
+      "fr": "Paul valery"
+    },
+    "keywords": [
+      "War",
+      "Wisdom"
+    ],
+    "languages": {
+      "fr": "La guerre est un massacre de gens qui ne se connaissent pas au profit de gens qui se connaissent mais ne se massacrent pas."
+    }
   }
 }

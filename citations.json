@@ -660,17 +660,85 @@
     }
   },
   "45": {
-  "author": {
-    "en": "Mark Twain",
-    "fr": "Mark Twain"
+    "author": {
+      "en": "Mark Twain",
+      "fr": "Mark Twain"
+    },
+    "keywords": [
+      "Humour",
+      "Statistics"
+    ],
+    "languages": {
+      "en": "Facts are stubborn, but statistics are more pliable.",
+      "fr": "Les faits sont têtus mais les statistiques sont plus accommodantes."
+    }
   },
-  "keywords": [
-    "Humour",
-    "Statistics"
-  ],
-  "languages": {
-    "en": "Facts are stubborn, but statistics are more pliable.",
-    "fr": "Les faits sont têtus mais les statistiques sont plus accommodantes."
+  "46": {
+    "author": {
+      "en": "Paul Lafargue",
+      "fr": "Paul Lafargue"
+    },
+    "keywords": [
+      "Humour",
+      "Politics"
+    ],
+    "languages": {
+      "fr": "Voler en grand et restituer en petit, c'est la philantropie."
+    }
+  },
+  "47": {
+    "author": {
+      "en": "Napoléon Bonaparte",
+      "fr": "Napoléon Bonaparte"
+    },
+    "keywords": [
+      "Military"
+    ],
+    "languages": {
+      "fr": "N'interrompez jamais un ennemi qui est en train de commettre une erreur."
+    }
+  },
+  "48": {
+    "author": {
+      "en": "Isaac Asimov",
+      "fr": "Isaac Asimov"
+    },
+    "context": {
+      "all": "I, Asimov: A Memoir"
+    },
+    "keywords": [
+      "Sciences"
+    ],
+    "languages": {
+      "fr": "La connaissance scientifique, possède en quelque sorte des propriétés fractales : nous aurons beau accroître notre savoir, le reste - si infime soit-il - sera toujours aussi infiniment complexe que l'ensemble de départ."
+    }
+  },
+  "49": {
+    "author": {
+      "en": "Jacques Monod",
+      "fr": "Jacques Monod"
+    },
+    "keywords": [
+      "Sciences",
+      "Biology"
+    ],
+    "languages": {
+      "fr": "Un aspect curieux de la théorie de l'évolution est que chacun pense la comprendre."
+    }
+  },
+  "50": {
+    "author": {
+      "en": "Cicero",
+      "fr": "Cicéron"
+    },
+    "context": {
+      "all": "Essais, Montaigne, LIvre I, Chapitre XIX"
+    },,
+    "keywords": [
+      "Philosophy"
+    ],
+    "languages": {
+      "fr": "Philosopher, c'est apprendre à mourir."
+    }
   }
-}
 }

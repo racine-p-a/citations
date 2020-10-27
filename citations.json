@@ -732,13 +732,28 @@
       "fr": "Cicéron"
     },
     "context": {
-      "all": "Essais, Montaigne, LIvre I, Chapitre XIX"
+      "all": "Essais, Montaigne, Livre I, Chapitre XIX"
     },,
     "keywords": [
       "Philosophy"
     ],
     "languages": {
       "fr": "Philosopher, c'est apprendre à mourir."
+    }
+  },
+  "51": {
+    "author": {
+      "en": "Victor Hugo",
+      "fr": "Victor Hugo"
+    },
+    "context": {
+      "all": "Les Misérables, Tome IV, Chapitre XIX"
+    },,
+    "keywords": [
+      "Littérature"
+    ],
+    "languages": {
+      "fr": "La vraie division humaine est celle-ci : les lumineux et les ténébreux.\n\nDiminuer le nombre des ténébreux, augmenter le nombre des lumineux, voilà le but. C’est pourquoi nous crions : enseignement ! science ! Apprendre à lire, c’est allumer du feu ; toute syllabe épelée étincelle."
     }
   }
 }

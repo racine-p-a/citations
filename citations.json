@@ -755,5 +755,21 @@
     "languages": {
       "fr": "La vraie division humaine est celle-ci : les lumineux et les ténébreux.\n\nDiminuer le nombre des ténébreux, augmenter le nombre des lumineux, voilà le but. C’est pourquoi nous crions : enseignement ! science ! Apprendre à lire, c’est allumer du feu ; toute syllabe épelée étincelle."
     }
+  },
+  "52": {
+    "author": {
+      "en": "Werner Heisenberg",
+      "fr": "Werner Heisenberg"
+    },
+    "context": {
+      "all": "Physik und Philosophie"
+    },,
+    "keywords": [
+      "Science"
+    ],
+    "languages": {
+      "en": "What we observe is not nature itself, but nature exposed to our method of questioning.",
+      "fr": "[...] ce que nous observons, ce n'est pas la Nature en soi, mais la Nature exposée à notre méthode d'investigation."
+    }
   }
 }

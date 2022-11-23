@@ -1,775 +1,430 @@
 {
-  "citations": {
-    "1": {
-      "author": {
+  "authors": {
+    "Ἀριστοτέλης":{
+      "name":{
+        "en": "Aristotle",
+        "fr": "Aristote"
+      },
+      "img": {
+        "photo_avatar": "img/Ἀριστοτέλης.avif"
+      }
+    },
+    "Al Capone":{
+      "name":{
+        "en": "Al Capone",
+        "fr": "Al Capone"
+      },
+      "img": {
+        "photo_avatar": "img/Al_Capone.avif"
+      }
+    },
+    "André Gide": {
+      "name": {
+        "en": "André Gide",
+        "fr": "André Gide"
+      },
+      "img": {
+        "photo_avatar": "img/André_Gide.avif"
+      }
+    },
+    "Benjamin Franklin":{
+      "name":{
+        "en": "Benjamin Franklin",
+        "fr": "Benjamin Franklin"
+      },
+      "img": {
+        "photo_avatar": "img/Benjamin_Franklin.avif"
+      }
+    },
+    "Duke Nukem":{
+      "name":{
+        "en": "Duke Nukem",
+        "fr": "Duke Nukem"
+      },
+      "img": {
+        "photo_avatar": "img/Duke_Nukem.avif"
+      }
+    },
+    "Fernand Naudin": {
+      "name": {
+        "en": "Fernand Naudin",
+        "fr": "Fernand Naudin"
+      },
+      "img": {
+        "photo_avatar": "img/Fernand_Naudin.avif"
+      }
+    },
+    "Isaac Asimov":{
+      "name":{
+        "en": "Isaac Asimov",
+        "fr": "Isaac Asimov"
+      },
+      "img": {
+        "photo_avatar": "img/Isaac_Asimov.avif"
+      }
+    },
+    "John Adams":{
+      "name":{
+        "en": "John Adams",
+        "fr": "John Adams"
+      },
+      "img": {
+        "photo_avatar": "img/John_Adams.avif"
+      }
+    },
+    "Maître Folace":{
+      "name":{
+        "en": "Maître Folace",
+        "fr": "Maître Folace"
+      },
+      "img": {
+        "photo_avatar": "img/Maître_Folace.avif"
+      }
+    },
+    "Patrice de Mac Mahon": {
+      "name": {
         "en": "Patrice de Mac Mahon",
         "fr": "Patrice de Mac Mahon"
       },
-      "keywords": [
-        "History",
-        "Army"
-      ],
-      "languages": {
-        "fr": "J'y suis, j'y reste."
+      "img": {
+        "photo_avatar": "img/Patrice_de_Mac_Mahon.avif"
+      }
+    },
+    "Raoul Volfoni": {
+      "name": {
+        "en": "Raoul Volfoni",
+        "fr": "Raoul Volfoni"
+      },
+      "img": {
+        "photo_avatar": "img/Raoul_Volfoni.avif"
+      }
+    },
+    "Robert Brent":{
+      "name":{
+        "en": "Robert Brent",
+        "fr": "Robert Brent"
+      },
+      "img": {
+        "photo_avatar": ""
+      }
+    },
+    "Theo":{
+      "name":{
+        "en": "Theo",
+        "fr": "Theo"
+      },
+      "img": {
+        "photo_avatar": "img/Theo.avif"
+      }
+    },
+    "Thomas Jefferson":{
+      "name":{
+        "en": "Thomas Jefferson",
+        "fr": "Thomas Jefferson"
+      },
+      "img": {
+        "photo_avatar": "img/Thomas_Jefferson.avif"
       }
     }
   },
-  "2": {
-    "author": {
-      "en": "Duke Nukem",
-      "fr": "Duke Nukem"
-    },
-    "keywords": [
-      "Videogame"
-    ],
-    "languages": {
-      "en": "It's time to kick ass and chew bubble gum, and I'm all outta gum!"
-    }
-  },
-  "3": {
-    "author": {
-      "en": "Duke Nukem",
-      "fr": "Duke Nukem"
-    },
-    "context": {
-      "all": "Duke Nukem 3D"
-    },
-    "keywords": [
-      "Videogame",
-      "Insult"
-    ],
-    "languages": {
-      "en": "Your face, your ass, what's the difference?"
-    }
-  },
-  "4": {
-    "author": "Duke Nukem",
-    "context": {
-      "all": "Duke Nukem 3D"
-    },
-    "keywords": [
-      "Videogame",
-      "Insult"
-    ],
-    "languages": {
-      "en": "You're an inspiration for birth control!"
-    }
-  },
-  "5": {
-    "author": {
-      "en": "Isaac Asimov",
-      "fr": "Isaac Asimov"
-    },
-    "keywords": [
-      "Science"
-    ],
-    "languages": {
-      "fr": "Si le savoir peut créer des problèmes, ce n'est pas l'ignorance qui les résoudra."
-    }
-  },
-  "6": {
-    "author": {
-      "en": "Isaac Asimov",
-      "fr": "Isaac Asimov"
-    },
-    "keywords": [
-      "Science"
-    ],
-    "languages": {
-      "fr": "La connaissance scientifique possède en quelque sorte des propriétés fractales: nous aurons beau accroître notre savoir, le reste -- si infime soit-il -- sera toujours aussi infiniment complexe que l'ensemble de départ."
-    }
-  },
-  "7": {
-    "author": {
-      "en": "Isaac Asimov",
-      "fr": "Isaac Asimov"
-    },
-    "context": {
-      "en": "Fondation",
-      "fr": "Fondation"
-    },
-    "keywords": [
-      "Litterature",
-      "Science",
-      "Wisdom"
-    ],
-    "languages": {
-      "en": "Violence is the last refuge of the incompetent.",
-      "fr": "La violence est le dernier refuge de l'incompétence."
-    }
-  },
-  "8": {
-    "author": {
-      "en": "Raoul Volfoni",
-      "fr": "Raoul Volfoni"
-    },
-    "context": {
-      "fr": "Les Tontons flingueurs"
-    },
-    "keywords": [
-      "Movie",
-      "Punchline"
-    ],
-    "languages": {
-      "fr": "Bougez pas ! Les mains sur la table. Je vous préviens qu'on a la puissance de feu d'un croiseur et des flingues de concours."
-    }
-  },
-  "9": {
-    "author": {
-      "en": "Monsieur Fernand",
-      "fr": "Monsieur Fernand"
-    },
-    "context": {
-      "fr": "Les Tontons flingueurs"
-    },
-    "keywords": [
-      "Movie",
-      "Punchline"
-    ],
-    "languages": {
-      "fr": "Trois morts subites en moins d'une demi-heure, ah ça part sévère les droits de succession."
-    }
-  },
-  "10": {
-    "author": {
-      "en": "Monsieur Fernand",
-      "fr": "Monsieur Fernand"
-    },
-    "context": {
-      "fr": "Les Tontons flingueurs"
-    },
-    "keywords": [
-      "Insult",
-      "Movie",
-      "Punchline"
-    ],
-    "languages": {
-      "fr": "Les cons, ça ose tout ! C'est même à ça qu'on les reconnaît."
-    }
-  },
-  "11": {
-    "author": {
-      "en": "Maître Folace",
-      "fr": "Maître Folace"
-    },
-    "context": {
-      "fr": "Les Tontons flingueurs"
-    },
-    "keywords": [
-      "Humour",
-      "Movie"
-    ],
-    "languages": {
-      "fr": "On a dû arrêter la fabrication, y a des clients qui devenaient aveugles. Alors, ça faisait des histoires !"
-    }
-  },
-  "12": {
-    "author": {
-      "en": "Théo",
-      "fr": "Théo"
-    },
-    "context": {
-      "fr": "Les Tontons flingueurs"
-    },
-    "keywords": [
-      "Humour",
-      "Movie"
-    ],
-    "languages": {
-      "fr": "La bave du crapaud n'empêche pas la caravane de passer !"
-    }
-  },
-  "13": {
-    "author": {
-      "en": "Kadoc",
-      "fr": "Kadoc"
-    },
-    "context": {
-      "fr": "Kaamelott"
-    },
-    "keywords": [
-      "Humour",
-      "Movie"
-    ],
-    "languages": {
-      "fr": "À Kadoc !"
-    }
-  },
-  "14": {
-    "author": {
-      "en": "Aristotle",
-      "fr": "Aristote"
-    },
-    "context": {
-      "fr": ""
-    },
-    "keywords": [
-      "Philosophy"
-    ],
-    "languages": {
-      "en": "The whole is more than the sum of its parts.",
-      "fr": "Le tout est plus que la somme des parties."
-    }
-  },
-  "15": {
-    "author": {
-      "en": "John Adams",
-      "fr": "John Adams"
-    },
-    "context": {
-      "fr": ""
-    },
-    "keywords": [
-      "Philosophy",
-      "Wisdom"
-    ],
-    "languages": {
-      "en": "I must study politics and war that my sons may have liberty to study mathematics and philisophy.",
-      "fr": "Je dois étudier la politique et la guerre pour que mes fils aient la liberté d'étudier les mathématiques et la philosophie."
-    }
-  },
-  "16": {
-    "author": {
-      "en": "Benjamin Franklin",
-      "fr": "Benjamin Franklin"
-    },
-    "context": {
-      "fr": ""
-    },
-    "keywords": [
-      "Philosophy",
-      "Wisdom"
-    ],
-    "languages": {
-      "en": "Any society that would give up a little liberty to gain a little security will deserve neither and lose both.",
-      "fr": "Une société prête à sacrifier un peu de liberté contre un peu de sécurité ne mérite ni l'une ni l'autre, et finira par perdre les deux."
-    }
-  },
-  "17": {
-    "author": {
-      "en": "Al Capone",
-      "fr": "Al Capone"
-    },
-    "context": {
-      "fr": ""
-    },
-    "keywords": [
-      "Humour"
-    ],
-    "languages": {
-      "en": "You can get more of what you want with a kind word and a gun than you can with just a kind word.",
-      "fr": "On ibtient toujours plus en demandant poliment une arme à la main qu'en demandant juste poliment."
-    }
-  },
-  "18": {
-    "author": {
-      "en": "Ali ibn Abi Talib",
-      "fr": "Ali ibn Abi Talib"
-    },
-    "context": {
-      "fr": ""
-    },
-    "keywords": [
-      "Wisdom"
-    ],
-    "languages": {
-      "en": "There is no wealth like knowledge, no poverty like ignorance.",
-      "fr": "Il n'existe plus grande richesse que le savoir ni plus grande pauvreté que l'ignorance."
-    }
-  },
-  "19": {
-    "author": {
-      "en": "Robert Brent",
-      "fr": "Robert Brent"
-    },
-    "context": {
-      "fr": ""
-    },
-    "keywords": [
-      "Wisdom"
-    ],
-    "languages": {
-      "en": "Chemistry means the difference between poverty and starvation and the abundant life.",
-      "fr": "La chimie est ce qui sépare la pauvreté et la famine de l'abondance."
-    }
-  },
-  "20": {
-    "author": {
-      "en": "Aristotle",
-      "fr": "Aristote"
-    },
-    "context": {
-      "fr": ""
-    },
-    "keywords": [
-      "Philosophy",
-      "Wisdom"
-    ],
-    "languages": {
-      "en": "I have gained this by philosophy: that I do without being commanded what others do only from fear of the law.",
-      "fr": "La philosophie m'a enseigné ceci : ce que je fais sans qu'on me l'ordonne, d'autrs le font par crainte de la loi."
-    }
-  },
-  "21": {
-    "author": {
-      "en": "Thomas Jefferson",
-      "fr": "Thomas Jefferson"
-    },
-    "context": {
-      "fr": ""
-    },
-    "keywords": [
-      "Wisdom"
-    ],
-    "languages": {
-      "en": "I cannot live without books.",
-      "fr": "Je ne peux vivre sans livres."
-    }
-  },
-  "22": {
-    "author": {
-      "en": "André Gide",
-      "fr": "André Gide"
-    },
-    "context": {
-      "fr": "Le dialogue avec André Gide (1929)"
-    },
-    "keywords": [
-      "Humour",
-      "Wisdom"
-    ],
-    "languages": {
-      "fr": "Je ne dis rien, par habitude ; quand un philosophe vous répond, on ne comprend plus du tout ce qu'on lui avait demandé."
-    }
-  },
-  "23": {
-    "author": {
-      "en": "André Gide",
-      "fr": "André Gide"
-    },
-    "context": {
-      "fr": "Préface de Vol de nuit (1930)"
-    },
-    "keywords": [
-      "Philosophy",
-      "Wisdom"
-    ],
-    "languages": {
-      "fr": "Le bonheur de l'homme n'est pas dans la liberté, mais dans l'acceptation d'un devoir."
-    }
-  },
-  "24": {
-    "author": {
-      "en": "André Gide",
-      "fr": "André Gide"
-    },
-    "context": {
-      "fr": "Les Jeux sont faits (1952)"
-    },
-    "keywords": [
-      "Philosophy",
-      "Wisdom"
-    ],
-    "languages": {
-      "fr": "Croyez ceux qui cherchent la vérité, doutez de ceux qui la trouvent."
-    }
-  },
-  "25": {
-    "author": {
-      "en": "William Shakespeare",
-      "fr": "William Shakespeare"
-    },
-    "context": {
-      "en": "Twelfth Night",
-      "fr": "La Nuit des rois"
-    },
-    "keywords": [
-      "Love",
-      "Poetry"
-    ],
-    "languages": {
-      "en": "If music be the food of love, play on.",
-      "fr": "Si la musique nourrit l'amour, alors jouez."
-    }
-  },
-  "26": {
-    "author": {
-      "en": "Antoine de Saint-Exupéry",
-      "fr": "Antoine de Saint-Exupéry"
-    },
-    "context": {
-      "fr": "Terre des hommes"
-    },
-    "keywords": [
-      "Poetry",
-      "Wisdom"
-    ],
-    "languages": {
-      "fr": "Il est vain, si l'on plante un chêne, d'espérer s'abriter bientôt sous son feuillage."
-    }
-  },
-  "27": {
-    "author": {
-      "en": "Antoine de Saint-Exupéry",
-      "fr": "Antoine de Saint-Exupéry"
-    },
-    "context": {
-      "fr": "Terre des hommes"
-    },
-    "keywords": [
-      "Poetry",
-      "Wisdom"
-    ],
-    "languages": {
-      "en": "He has achieved perfection not when there is nothing left to add, but when there is nothing left to take away.",
-      "fr": "Il semble que la perfection soit atteinte non quand il n'y a plus rien à ajouter, mais quand il n'y a plus rien à retrancher."
-    }
-  },
-  "28": {
-    "author": {
-      "en": "Antoine de Saint-Exupéry",
-      "fr": "Antoine de Saint-Exupéry"
-    },
-    "context": {
-      "fr": "Terre des hommes"
-    },
-    "keywords": [
-      "Love",
-      "Poetry",
-      "Wisdom"
-    ],
-    "languages": {
-      "fr": "L'expérience nous montre qu'aimer ce n'est point nous regarder l'un l'autre mais regarder ensemble dans la même direction."
-    }
-  },
-  "29": {
-    "author": {
-      "en": "Antoine de Saint-Exupéry",
-      "fr": "Antoine de Saint-Exupéry"
-    },
-    "context": {
-      "fr": "Terre des hommes"
-    },
-    "keywords": [
-      "Love",
-      "Poetry",
-      "Wisdom"
-    ],
-    "languages": {
-      "fr": "Ce qui donne un sens à la vie donne un sens à la mort."
-    }
-  },
-  "30": {
-    "author": {
-      "en": "Antoine de Saint-Exupéry",
-      "fr": "Antoine de Saint-Exupéry"
-    },
-    "context": {
-      "fr": "Le Petit Prince"
-    },
-    "keywords": [
-      "Poetry"
-    ],
-    "languages": {
-      "fr": "Quand on a terminé sa toilette du matin, il faut faire soigneusement la toilette de la planète."
-    }
-  },
-  "31": {
-    "author": {
-      "en": "Antoine de Saint-Exupéry",
-      "fr": "Antoine de Saint-Exupéry"
-    },
-    "context": {
-      "fr": "Le Petit Prince"
-    },
-    "keywords": [
-      "Poetry"
-    ],
-    "languages": {
-      "fr": "Il faut bien que je supporte deux ou trois chenilles si je veux connaître les papillons."
-    }
-  },
-  "32": {
-    "author": {
-      "en": "Unknown",
-      "fr": "Inconnu"
-    },
-    "keywords": [
-      "Humour"
-    ],
-    "languages": {
-      "en": "The bureaucracy is expanding to meet the needs of the expanding bureaucracy.",
-      "fr": "La bureaucratie doit croître pour répondre aux besoins de la bureaucracie grandissante."
-    }
-  },
-  "33": {
-    "author": {
-      "en": "Thomas Jefferson",
-      "fr": "Thomas Jefferson"
-    },
-    "keywords": [
-      "Humour"
-    ],
-    "languages": {
-      "en": "Banking establishments are more dangerous than standing armies.",
-      "fr": "Les établissements bancaires sont plus dangereux qu'une armée en campagne."
-    }
-  },
-  "34": {
-    "author": {
-      "en": "Sir Francis Bacon",
-      "fr": "Sir Francis Bacon"
-    },
-    "keywords": [
-      "Wisdmom"
-    ],
-    "languages": {
-      "en": "Some books are to be tasted, others to be swallowed, and some to be chewed and digested.",
-      "fr": "Certains livres se goûtent, d'autres se dévorent, d'autres encore se mâchent et se digèrent lentement."
-    }
-  },
-  "35": {
-    "author": {
-      "en": "Pliny the Elder",
-      "fr": "Pline l'ancien"
-    },
-    "keywords": [
-      "Wisdmom"
-    ],
-    "languages": {
-      "en": "True glory consists in doing what deserves to be written; in writing what deserves to be read.",
-      "fr": "La vraie gloire consiste à faire ce qui mérite d'être écrit et écrire ce qui mérite d'être lu."
-    }
-  },
-  "36": {
-    "author": {
-      "en": "Confucius",
-      "fr": "Confucius"
-    },
-    "keywords": [
-      "Philosophy",
-      "Wisdmom"
-    ],
-    "languages": {
-      "en": "The man who moves a mountain begins by carrying away small stones.",
-      "fr": "Pour déplacer une montagné, il faut commencer par les petites pierres."
-    }
-  },
-  "37": {
-    "author": {
-      "en": "Aristophanes",
-      "fr": "Aristophane"
-    },
-    "keywords": [
-      "Wisdmom"
-    ],
-    "languages": {
-      "en": "It is from their foes, not their friends, that cities learn the lesson of building high walls.",
-      "fr": "C'est de leurs ennemis, non de leurs alliés, que les cités ont appris à bâtir de hautes murailles."
-    }
-  },
-  "38": {
-    "author": {
-      "en": "Konstantin E. Tsiolkovsky",
-      "fr": "Constantin Tsiolkovski"
-    },
-    "keywords": [
-      "Astronomy"
-    ],
-    "languages": {
-      "en": "The Earth is the cradle of the mind, but one cannot eternally live in a cradle.",
-      "fr": "La Terre est le berceau de l'Humanité mais qui veu passer sa vie dans un berceau ?"
-    }
-  },
-  "39": {
-    "author": {
-      "en": "Native American Song",
-      "fr": "Chant amérindien"
-    },
-    "keywords": [
-      "Wisdom"
-    ],
-    "languages": {
-      "en": "We do not inherit the earth from our ancestors, we borrow it from our children.",
-      "fr": "Nous n'héritons pas la Terre de nos ancêtres, nous l'empruntons à nos enfants."
-    }
-  },
-  "40": {
-    "author": {
-      "en": "Dom Helder Camara",
-      "fr": "Hélder Câmara"
-    },
-    "keywords": [
-      "Wisdom"
-    ],
-    "languages": {
-      "en": "When I give food to the poor, they call me a saint. When I ask why the poor have no food, they call me a communist.",
-      "fr": "Quand je donne à manger aux pauvres, on me dit que je suis un saint. Quand je demande pourquoi le pauvre n'a pas de nourriture, on me traite de communiste."
-    }
-  },
-  "41": {
-    "author": {
-      "en": "Charles Darwin",
-      "fr": "Charles Darwin"
-    },
-    "keywords": [
-      "Biology"
-    ],
-    "languages": {
-      "en": "It is not the strongest of the species that survive, but the one most responsive to change.",
-      "fr": "Ce n'est pas l'espèce la plus forte qui survit mais celle qui s'adapte le mieux au changement."
-    }
-  },
-  "42": {
-    "author": {
-      "en": "George Santayana",
-      "fr": "George Santayana"
-    },
-    "keywords": [
-      "Wisdom"
-    ],
-    "languages": {
-      "en": "Those who cannot remember the past are condemned to repeat it.",
-      "fr": "Ceux qui ne connaissent pas leur passé sont condamnés à le reproduire."
-    }
-  },
-  "43": {
-    "author": {
-      "en": "Franklin Delano Roosevelt",
-      "fr": "Franklin Delano Roosevelt"
-    },
-    "keywords": [
-      "Wisdom"
-    ],
-    "languages": {
-      "en": "The nation that destroys its soil destroys itself.",
-      "fr": "Une nation qui détruit son sol se détruit elle-même."
-    }
-  },
-  "44": {
-    "author": {
-      "en": "Paul Valery",
-      "fr": "Paul valery"
-    },
-    "keywords": [
-      "War",
-      "Wisdom"
-    ],
-    "languages": {
-      "fr": "La guerre est un massacre de gens qui ne se connaissent pas au profit de gens qui se connaissent mais ne se massacrent pas."
-    }
-  },
-  "45": {
-    "author": {
-      "en": "Mark Twain",
-      "fr": "Mark Twain"
-    },
-    "keywords": [
-      "Humour",
-      "Statistics"
-    ],
-    "languages": {
-      "en": "Facts are stubborn, but statistics are more pliable.",
-      "fr": "Les faits sont têtus mais les statistiques sont plus accommodantes."
-    }
-  },
-  "46": {
-    "author": {
-      "en": "Paul Lafargue",
-      "fr": "Paul Lafargue"
-    },
-    "keywords": [
-      "Humour",
-      "Politics"
-    ],
-    "languages": {
-      "fr": "Voler en grand et restituer en petit, c'est la philantropie."
-    }
-  },
-  "47": {
-    "author": {
-      "en": "Napoléon Bonaparte",
-      "fr": "Napoléon Bonaparte"
-    },
-    "keywords": [
-      "Military"
-    ],
-    "languages": {
-      "fr": "N'interrompez jamais un ennemi qui est en train de commettre une erreur."
-    }
-  },
-  "48": {
-    "author": {
-      "en": "Isaac Asimov",
-      "fr": "Isaac Asimov"
-    },
-    "context": {
-      "all": "I, Asimov: A Memoir"
-    },
-    "keywords": [
-      "Sciences"
-    ],
-    "languages": {
-      "fr": "La connaissance scientifique, possède en quelque sorte des propriétés fractales : nous aurons beau accroître notre savoir, le reste - si infime soit-il - sera toujours aussi infiniment complexe que l'ensemble de départ."
-    }
-  },
-  "49": {
-    "author": {
-      "en": "Jacques Monod",
-      "fr": "Jacques Monod"
-    },
-    "keywords": [
-      "Sciences",
-      "Biology"
-    ],
-    "languages": {
-      "fr": "Un aspect curieux de la théorie de l'évolution est que chacun pense la comprendre."
-    }
-  },
-  "50": {
-    "author": {
-      "en": "Cicero",
-      "fr": "Cicéron"
-    },
-    "context": {
-      "all": "Essais, Montaigne, Livre I, Chapitre XIX"
-    },,
-    "keywords": [
-      "Philosophy"
-    ],
-    "languages": {
-      "fr": "Philosopher, c'est apprendre à mourir."
-    }
-  },
-  "51": {
-    "author": {
-      "en": "Victor Hugo",
-      "fr": "Victor Hugo"
-    },
-    "context": {
-      "all": "Les Misérables, Tome IV, Chapitre XIX"
-    },,
-    "keywords": [
-      "Littérature"
-    ],
-    "languages": {
-      "fr": "La vraie division humaine est celle-ci : les lumineux et les ténébreux.\n\nDiminuer le nombre des ténébreux, augmenter le nombre des lumineux, voilà le but. C’est pourquoi nous crions : enseignement ! science ! Apprendre à lire, c’est allumer du feu ; toute syllabe épelée étincelle."
-    }
-  },
-  "52": {
-    "author": {
-      "en": "Werner Heisenberg",
-      "fr": "Werner Heisenberg"
-    },
-    "context": {
-      "all": "Physik und Philosophie"
-    },,
-    "keywords": [
-      "Science"
-    ],
-    "languages": {
-      "en": "What we observe is not nature itself, but nature exposed to our method of questioning.",
-      "fr": "[...] ce que nous observons, ce n'est pas la Nature en soi, mais la Nature exposée à notre méthode d'investigation."
-    }
-  }
+  "citations":
+    [
+      {
+        "author": "Ἀριστοτέλης",
+        "quote": {
+          "en": "The whole is more than the sum of its parts.",
+          "fr": "Le tout est plus que la somme des parties."
+        },
+        "keywords": [
+          "Philosophy"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      },
+      {
+        "author": "Ἀριστοτέλης",
+        "quote": {
+          "en": "I have gained this by philosophy: that I do without being commanded what others do only from fear of the law.",
+          "fr": "La philosophie m'a enseigné ceci : ce que je fais sans qu'on me l'ordonne, d'autres le font par crainte de la loi."
+        },
+        "keywords": [
+          "Philosophy",
+          "Wisdom"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      },
+      {
+        "author": "Al Capone",
+        "quote": {
+          "en": "You can get more of what you want with a kind word and a gun than you can with just a kind word.",
+          "fr": "On obtient toujours plus en demandant poliment une arme à la main qu'en demandant juste poliment."
+        },
+        "keywords": [
+          "Humour"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      },
+      {
+        "author": "André Gide",
+        "quote": {
+          "en": "",
+          "fr": "Je ne dis rien, par habitude ; quand un philosophe vous répond, on ne comprend plus du tout ce qu'on lui avait demandé."
+        },
+        "keywords": [
+          "Humour"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      },
+      {
+        "author": "André Gide",
+        "quote": {
+          "en": "",
+          "fr": "Croyez ceux qui cherchent la vérité, doutez de ceux qui la trouvent."
+        },
+        "keywords": [
+          "Philosophy",
+          "Wisdom"
+        ],
+        "context": {
+          "en": "Les Jeux sont faits, 1952",
+          "fr": "Les Jeux sont faits, 1952"
+        }
+      },
+      {
+        "author": "Benjamin Franklin",
+        "quote": {
+          "en": "Any society that would give up a little liberty to gain a little security will deserve neither and lose both.",
+          "fr": "Une société prête à sacrifier un peu de liberté contre un peu de sécurité ne mérite ni l'une ni l'autre, et finira par perdre les deux."
+        },
+        "keywords": [
+          "Philosophy",
+          "Wisdom"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      },
+      {
+        "author": "Duke Nukem",
+        "quote": {
+          "en": "It's time to kick ass and chew bubble gum, and I'm all outta gum!"
+        },
+        "keywords": [
+          "Videogame"
+        ],
+        "context": {
+          "en": "Duke Nukem 3D, 1996",
+          "fr": "Duke Nukem 3D, 1996"
+        }
+      },
+      {
+        "author": "Duke Nukem",
+        "quote": {
+          "en": "You're an inspiration for birth control!"
+        },
+        "keywords": [
+          "Videogame"
+        ],
+        "context": {
+          "en": "Duke Nukem 3D, 1996",
+          "fr": "Duke Nukem 3D, 1996"
+        }
+      },
+      {
+        "author": "Duke Nukem",
+        "quote": {
+          "en": "Your face, your ass, what's the difference?"
+        },
+        "keywords": [
+          "Insult",
+          "Videogame"
+        ],
+        "context": {
+          "en": "Duke Nukem 3D, 1996",
+          "fr": "Duke Nukem 3D, 1996"
+        }
+      },
+      {
+        "author": "Fernand Naudin",
+        "quote": {
+          "fr": "Trois morts subites en moins d'une demi-heure, ah ça part sévère les droits de succession."
+        },
+        "keywords": [
+          "Movie",
+          "Punchline"
+        ],
+        "context": {
+          "en": "Les Tontons flingueurs, 1963",
+          "fr": "Les Tontons flingueurs, 1963"
+        }
+      },
+      {
+        "author": "Fernand Naudin",
+        "quote": {
+          "fr": "Les cons, ça ose tout ! C'est même à ça qu'on les reconnaît."
+        },
+        "keywords": [
+          "Insult",
+          "Movie",
+          "Punchline"
+        ],
+        "context": {
+          "en": "Les Tontons flingueurs, 1963",
+          "fr": "Les Tontons flingueurs, 1963"
+        }
+      },
+      {
+        "author": "Isaac Asimov",
+        "quote": {
+          "fr": "Si le savoir peut créer des problèmes, ce n'est pas l'ignorance qui les résoudra."
+        },
+        "keywords": [
+          "Science"
+        ],
+        "context": {
+          "fr": "L'univers de la science, 1986"
+        }
+      },
+      {
+        "author": "Isaac Asimov",
+        "quote": {
+          "fr": "La connaissance scientifique possède en quelque sorte des propriétés fractales: nous aurons beau accroître notre savoir, le reste -- si infime soit-il -- sera toujours aussi infiniment complexe que l'ensemble de départ."
+        },
+        "keywords": [
+          "Science"
+        ],
+        "context": {
+          "fr": "Moi, Asimov, 1986"
+        }
+      },
+      {
+        "author": "Isaac Asimov",
+        "quote": {
+          "en": "Violence is the last refuge of the incompetent.",
+          "fr": "La violence est le dernier refuge de l'incompétence."
+        },
+        "keywords": [
+          "Literature",
+          "Science",
+          "Wisdom"
+        ],
+        "context": {
+          "en": "Fondation",
+          "fr": "Fondation"
+        }
+      },
+      {
+        "author": "John Adams",
+        "quote": {
+          "en": "I must study politics and war that my sons may have liberty to study mathematics and philosophy.",
+          "fr": "Je dois étudier la politique et la guerre pour que mes fils aient la liberté d'étudier les mathématiques et la philosophie."
+        },
+        "keywords": [
+          "Philosophy",
+          "Wisdom"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      },
+      {
+        "author": "Maître Folace",
+        "quote": {
+          "fr": "On a dû arrêter la fabrication, y a des clients qui devenaient aveugles. Alors, ça faisait des histoires !"
+        },
+        "keywords": [
+          "Humour",
+          "Movie",
+          "Punchline"
+        ],
+        "context": {
+          "en": "Les Tontons flingueurs, 1963",
+          "fr": "Les Tontons flingueurs, 1963"
+        }
+      },
+      {
+        "author": "Patrice de Mac Mahon",
+        "quote": {
+          "fr": "J'y suis, j'y reste."
+        },
+        "keywords": [
+          "Army",
+          "History"
+        ],
+        "context": {
+          "en": "Siege of Sevastopol, 1855",
+          "fr": "Siège de Sébastopol, 1855"
+        }
+      },
+      {
+        "author": "Raoul Volfoni",
+        "quote": {
+          "fr": "Bougez pas ! Les mains sur la table. Je vous préviens qu'on a la puissance de feu d'un croiseur et des flingues de concours."
+        },
+        "keywords": [
+          "Movie",
+          "Punchline"
+        ],
+        "context": {
+          "en": "Les Tontons flingueurs, 1963",
+          "fr": "Les Tontons flingueurs, 1963"
+        }
+      },
+      {
+        "author": "Robert Brent",
+        "quote": {
+          "en": "Chemistry means the difference between poverty and starvation and the abundant life.",
+          "fr": "La chimie est ce qui sépare la pauvreté et la famine de l'abondance."
+        },
+        "keywords": [
+          "Philosophy",
+          "Wisdom"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      },
+      {
+        "author": "Théo",
+        "quote": {
+          "fr": "La bave du crapaud n'empêche pas la caravane de passer !"
+        },
+        "keywords": [
+          "Humour",
+          "Movie"
+        ],
+        "context": {
+          "en": "Les Tontons flingueurs, 1963",
+          "fr": "Les Tontons flingueurs, 1963"
+        }
+      },
+      {
+        "author": "Thomas Jefferson",
+        "quote": {
+          "en": "I cannot live without books.",
+          "fr": "Je ne peux vivre sans livres."
+        },
+        "keywords": [
+          "Wisdom"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      }
+    ]
 }

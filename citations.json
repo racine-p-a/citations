@@ -27,6 +27,15 @@
         "photo_avatar": "img/André_Gide.avif"
       }
     },
+    "Antoine de Saint-Exupéry": {
+      "name": {
+        "en": "Antoine de Saint-Exupéry",
+        "fr": "Antoine de Saint-Exupéry"
+      },
+      "img": {
+        "photo_avatar": "img/Antoine_de_Saint-Exupéry.avif"
+      }
+    },
     "Benjamin Franklin":{
       "name":{
         "en": "Benjamin Franklin",
@@ -125,6 +134,15 @@
       "img": {
         "photo_avatar": "img/Thomas_Jefferson.avif"
       }
+    },
+    "William Shakespeare":{
+      "name":{
+        "en": "William Shakespeare",
+        "fr": "William Shakespeare"
+      },
+      "img": {
+        "photo_avatar": "img/William_Shakespeare.avif"
+      }
     }
   },
   "citations":
@@ -199,6 +217,90 @@
         "context": {
           "en": "Les Jeux sont faits, 1952",
           "fr": "Les Jeux sont faits, 1952"
+        }
+      },
+      {
+        "author": "Antoine de Saint-Exupéry",
+        "quote": {
+          "fr": "Il est vain, si l'on plante un chêne, d'espérer s'abriter bientôt sous son feuillage."
+        },
+        "keywords": [
+          "Poetry",
+          "Wisdom"
+        ],
+        "context": {
+          "en": "Wind, Sand and Stars, 1939",
+          "fr": "Terre des hommes, 1939"
+        }
+      },
+      {
+        "author": "Antoine de Saint-Exupéry",
+        "quote": {
+          "en": "He has achieved perfection not when there is nothing left to add, but when there is nothing left to take away.",
+          "fr": "Il semble que la perfection soit atteinte non quand il n'y a plus rien à ajouter, mais quand il n'y a plus rien à retrancher."
+        },
+        "keywords": [
+          "Poetry",
+          "Wisdom"
+        ],
+        "context": {
+          "en": "Wind, Sand and Stars, 1939",
+          "fr": "Terre des hommes, 1939"
+        }
+      },
+      {
+        "author": "Antoine de Saint-Exupéry",
+        "quote": {
+          "fr": "L'expérience nous montre qu'aimer ce n'est point nous regarder l'un l'autre mais regarder ensemble dans la même direction."
+        },
+        "keywords": [
+          "Love",
+          "Poetry",
+          "Wisdom"
+        ],
+        "context": {
+          "en": "Wind, Sand and Stars, 1939",
+          "fr": "Terre des hommes, 1939"
+        }
+      },
+      {
+        "author": "Antoine de Saint-Exupéry",
+        "quote": {
+          "fr": "Ce qui donne un sens à la vie donne un sens à la mort."
+        },
+        "keywords": [
+          "Poetry",
+          "Wisdom"
+        ],
+        "context": {
+          "en": "Wind, Sand and Stars, 1939",
+          "fr": "Terre des hommes, 1939"
+        }
+      },
+      {
+        "author": "Antoine de Saint-Exupéry",
+        "quote": {
+          "fr": "Quand on a terminé sa toilette du matin, il faut faire soigneusement la toilette de la planète."
+        },
+        "keywords": [
+          "Poetry"
+        ],
+        "context": {
+          "en": "The Little Prince, 1943",
+          "fr": "Le Petit Prince, 1943"
+        }
+      },
+      {
+        "author": "Antoine de Saint-Exupéry",
+        "quote": {
+          "fr": "Il faut bien que je supporte deux ou trois chenilles si je veux connaître les papillons."
+        },
+        "keywords": [
+          "Poetry"
+        ],
+        "context": {
+          "en": "The Little Prince, 1943",
+          "fr": "Le Petit Prince, 1943"
         }
       },
       {
@@ -424,6 +526,21 @@
         "context": {
           "en": "",
           "fr": ""
+        }
+      },
+      {
+        "author": "William Shakespeare",
+        "quote": {
+          "en": "If music be the food of love, play on.",
+          "fr": "Si la musique nourrit l'amour, alors jouez."
+        },
+        "keywords": [
+          "Love",
+          "Poetry"
+        ],
+        "context": {
+          "en": "Twelfth Night",
+          "fr": "La Nuit des rois"
         }
       }
     ]

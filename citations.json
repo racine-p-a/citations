@@ -90,6 +90,15 @@
         "photo_avatar": "img/Caius_Plinius.avif"
       }
     },
+    "Charles Darwin":{
+      "name":{
+        "en": "Charles Darwin",
+        "fr": "Charles Darwin"
+      },
+      "img": {
+        "photo_avatar": "img/Charles-Darwin.avif"
+      }
+    },
     "Duke Nukem":{
       "name":{
         "en": "Duke Nukem",
@@ -117,6 +126,15 @@
         "photo_avatar": "img/Francis_Bacon.avif"
       }
     },
+    "George Santayana":{
+      "name":{
+        "en": "George Santayana",
+        "fr": "George Santayana"
+      },
+      "img": {
+        "photo_avatar": "img/George_Santayana.avif"
+      }
+    },
     "Hélder Câmara":{
       "name":{
         "en": "Hélder Câmara",
@@ -133,6 +151,15 @@
       },
       "img": {
         "photo_avatar": "img/Isaac_Asimov.avif"
+      }
+    },
+    "Jacques Monod":{
+      "name":{
+        "en": "Jacques Monod",
+        "fr": "Jacques Monod"
+      },
+      "img": {
+        "photo_avatar": "img/Jacques_Monod.avif"
       }
     },
     "John Adams":{
@@ -153,6 +180,33 @@
         "photo_avatar": "img/Maître_Folace.avif"
       }
     },
+    "Marcus Tullius Cicero":{
+      "name":{
+        "en": "Cicero",
+        "fr": "Cicéron"
+      },
+      "img": {
+        "photo_avatar": "img/Marcus_Tullius_Cicero.avif"
+      }
+    },
+    "Mark Twain":{
+      "name":{
+        "en": "Mark Twain",
+        "fr": "Mark Twain"
+      },
+      "img": {
+        "photo_avatar": "img/Mark_Twain.avif"
+      }
+    },
+    "Napoléon Bonaparte":{
+      "name":{
+        "en": "Napoléon Bonaparte",
+        "fr": "Napoléon Bonaparte"
+      },
+      "img": {
+        "photo_avatar": "img/Napoléon_Bonaparte.avif"
+      }
+    },
     "Patrice de Mac Mahon": {
       "name": {
         "en": "Patrice de Mac Mahon",
@@ -160,6 +214,24 @@
       },
       "img": {
         "photo_avatar": "img/Patrice_de_Mac_Mahon.avif"
+      }
+    },
+    "Paul Lafargue": {
+      "name": {
+        "en": "Paul Lafargue",
+        "fr": "Paul Lafargue"
+      },
+      "img": {
+        "photo_avatar": "img/Paul_Lafargue.avif"
+      }
+    },
+    "Paul Valéry": {
+      "name": {
+        "en": "Paul Valéry",
+        "fr": "Paul Valéry"
+      },
+      "img": {
+        "photo_avatar": "img/Paul_Valéry.avif"
       }
     },
     "Raoul Volfoni": {
@@ -196,6 +268,24 @@
       },
       "img": {
         "photo_avatar": "img/Thomas_Jefferson.avif"
+      }
+    },
+    "Victor Hugo":{
+      "name":{
+        "en": "Victor Hugo",
+        "fr": "Victor Hugo"
+      },
+      "img": {
+        "photo_avatar": "img/Victor_Hugo.avif"
+      }
+    },
+    "Werner Heisenberg":{
+      "name":{
+        "en": "Werner Heisenberg",
+        "fr": "Werner Heisenberg"
+      },
+      "img": {
+        "photo_avatar": "img/Werner_Heisenberg.avif"
       }
     },
     "William Shakespeare":{
@@ -468,6 +558,20 @@
         }
       },
       {
+        "author": "Charles Darwin",
+        "quote": {
+          "en": "It is not the strongest of the species that survive, but the one most responsive to change.",
+          "fr": "Ce n'est pas l'espèce la plus forte qui survit mais celle qui s'adapte le mieux au changement."
+        },
+        "keywords": [
+          "Biology"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      },
+      {
         "author": "Duke Nukem",
         "quote": {
           "en": "It's time to kick ass and chew bubble gum, and I'm all outta gum!"
@@ -552,6 +656,35 @@
         }
       },
       {
+        "author": "Francis Bacon",
+        "quote": {
+          "en": "Some books are to be tasted, others to be swallowed, and some to be chewed and digested.",
+          "fr": "Certains livres se goûtent, d'autres se dévorent, d'autres encore se mâchent et se digèrent lentement."
+        },
+        "keywords": [
+          "Literature",
+          "Wisdom"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      },
+      {
+        "author": "George Santayana",
+        "quote": {
+          "en": "Those who cannot remember the past are condemned to repeat it.",
+          "fr": "Ceux qui ne connaissent pas leur passé sont condamnés à le reproduire."
+        },
+        "keywords": [
+          "Wisdom"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      },
+      {
         "author": "Hélder Câmara",
         "quote": {
           "en": "When I give food to the poor, they call me a saint. When I ask why the poor have no food, they call me a communist.",
@@ -607,6 +740,20 @@
         }
       },
       {
+        "author": "Jacques Monod",
+        "quote": {
+          "fr": "Un aspect curieux de la théorie de l'évolution est que chacun pense la comprendre."
+        },
+        "keywords": [
+          "Sciences",
+          "Biology"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      },
+      {
         "author": "John Adams",
         "quote": {
           "en": "I must study politics and war that my sons may have liberty to study mathematics and philosophy.",
@@ -637,6 +784,48 @@
         }
       },
       {
+        "author": "Marcus Tullius Cicero",
+        "quote": {
+          "fr": "Philosopher, c'est apprendre à mourir."
+        },
+        "keywords": [
+          "Philosophy"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      },
+      {
+        "author": "Mark Twain",
+        "quote": {
+          "en": "Facts are stubborn, but statistics are more pliable.",
+          "fr": "Les faits sont têtus mais les statistiques sont plus accommodantes."
+        },
+        "keywords": [
+          "Humour",
+          "Politics"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      },
+      {
+        "author": "Napoléon Bonaparte",
+        "quote": {
+          "fr": "N'interrompez jamais un ennemi qui est en train de commettre une erreur."
+        },
+        "keywords": [
+          "Military",
+          "Wisdom"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      },
+      {
         "author": "Patrice de Mac Mahon",
         "quote": {
           "fr": "J'y suis, j'y reste."
@@ -648,6 +837,34 @@
         "context": {
           "en": "Siege of Sevastopol, 1855",
           "fr": "Siège de Sébastopol, 1855"
+        }
+      },
+      {
+        "author": "Paul Valéry",
+        "quote": {
+          "fr": "La guerre est un massacre de gens qui ne se connaissent pas au profit de gens qui se connaissent mais ne se massacrent pas."
+        },
+        "keywords": [
+          "War",
+          "Wisdom"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      },
+      {
+        "author": "Paul Lafargue",
+        "quote": {
+          "fr": "Voler en grand et restituer en petit, c'est la philantropie."
+        },
+        "keywords": [
+          "Humour",
+          "Politics"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
         }
       },
       {
@@ -719,6 +936,32 @@
         "context": {
           "en": "",
           "fr": ""
+        }
+      },
+      {
+        "author": "Victor Hugo",
+        "quote": {
+          "fr": "La vraie division humaine est celle-ci : les lumineux et les ténébreux. Diminuer le nombre des ténébreux, augmenter le nombre des lumineux, voilà le but. C’est pourquoi nous crions : enseignement ! science ! Apprendre à lire, c’est allumer du feu ; toute syllabe épelée étincelle."
+        },
+        "keywords": [
+          "Littérature"
+        ],
+        "context": {
+          "fr": "Les Misérables, Tome IV, Chapitre XIX"
+        }
+      },
+      {
+        "author": "Werner Heisenberg",
+        "quote": {
+          "en": "What we observe is not nature itself, but nature exposed to our method of questioning.",
+          "fr": "[...] ce que nous observons, ce n'est pas la Nature en soi, mais la Nature exposée à notre méthode d'investigation."
+        },
+        "keywords": [
+          "Science"
+        ],
+        "context": {
+          "en": "Physik und Philosophie",
+          "fr": "Physik und Philosophie"
         }
       },
       {

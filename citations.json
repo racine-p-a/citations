@@ -1,5 +1,14 @@
 {
   "authors": {
+    "Ἀριστοφάνης":{
+      "name":{
+        "en": "Aristophanes",
+        "fr": "Aristophane"
+      },
+      "img": {
+        "photo_avatar": "img/Ἀριστοφάνης.avif"
+      }
+    },
     "Ἀριστοτέλης":{
       "name":{
         "en": "Aristotle",
@@ -7,6 +16,33 @@
       },
       "img": {
         "photo_avatar": "img/Ἀριστοτέλης.avif"
+      }
+    },
+    "Константи́н Эдуа́рдович Циолко́вский":{
+      "name":{
+        "en": "Konstantin Eduardovich Tsiolkovsky",
+        "fr": "Constantin Édouardovitch Tsiolkovski"
+      },
+      "img": {
+        "photo_avatar": "img/Константи́н_Эдуа́рдович_Циолко́вский.avif"
+      }
+    },
+    "孔子":{
+      "name":{
+        "en": "Confucius",
+        "fr": "Confucius"
+      },
+      "img": {
+        "photo_avatar": "img/孔子.avif"
+      }
+    },
+    "Anonyme":{
+      "name":{
+        "en": "Anonym",
+        "fr": "Anonyme"
+      },
+      "img": {
+        "photo_avatar": ""
       }
     },
     "Al Capone":{
@@ -45,6 +81,15 @@
         "photo_avatar": "img/Benjamin_Franklin.avif"
       }
     },
+    "Caius Plinius":{
+      "name":{
+        "en": "Pliny the Elder",
+        "fr": "Pline l'ancien"
+      },
+      "img": {
+        "photo_avatar": "img/Caius_Plinius.avif"
+      }
+    },
     "Duke Nukem":{
       "name":{
         "en": "Duke Nukem",
@@ -61,6 +106,24 @@
       },
       "img": {
         "photo_avatar": "img/Fernand_Naudin.avif"
+      }
+    },
+    "Francis Bacon":{
+      "name":{
+        "en": "Francis Bacon",
+        "fr": "Francis Bacon"
+      },
+      "img": {
+        "photo_avatar": "img/Francis_Bacon.avif"
+      }
+    },
+    "Hélder Câmara":{
+      "name":{
+        "en": "Hélder Câmara",
+        "fr": "Hélder Câmara"
+      },
+      "img": {
+        "photo_avatar": "img/Hélder_Câmara.avif"
       }
     },
     "Isaac Asimov":{
@@ -148,6 +211,21 @@
   "citations":
     [
       {
+        "author": "Ἀριστοφάνης",
+        "quote": {
+          "en": "It is from their foes, not their friends, that cities learn the lesson of building high walls.",
+          "fr": "C'est de leurs ennemis, non de leurs alliés, que les cités ont appris à bâtir de hautes murailles."
+        },
+        "keywords": [
+          "Philosophy",
+          "Wisdom"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      },
+      {
         "author": "Ἀριστοτέλης",
         "quote": {
           "en": "The whole is more than the sum of its parts.",
@@ -174,6 +252,63 @@
         "context": {
           "en": "",
           "fr": ""
+        }
+      },
+      {
+        "author": "Константи́н Эдуа́рдович Циолко́вский",
+        "quote": {
+          "en": "The Earth is the cradle of the mind, but one cannot eternally live in a cradle.",
+          "fr": "La Terre est le berceau de l'Humanité mais qui veu passer sa vie dans un berceau ?"
+        },
+        "keywords": [
+          "Astronomy"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      },
+      {
+        "author": "孔子",
+        "quote": {
+          "en": "The man who moves a mountain begins by carrying away small stones.",
+          "fr": "Pour déplacer une montagne, il faut commencer par les petites pierres."
+        },
+        "keywords": [
+          "Philosophy",
+          "Wisdom"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      },
+      {
+        "author": "Anonyme",
+        "quote": {
+          "en": "The bureaucracy is expanding to meet the needs of the expanding bureaucracy.",
+          "fr": "La bureaucratie doit croître pour répondre aux besoins de la bureaucracie grandissante."
+        },
+        "keywords": [
+          "Humour"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      },
+      {
+        "author": "Anonyme",
+        "quote": {
+          "en": "We do not inherit the earth from our ancestors, we borrow it from our children.",
+          "fr": "Nous n'héritons pas la Terre de nos ancêtres, nous l'empruntons à nos enfants."
+        },
+        "keywords": [
+          "Wisdom"
+        ],
+        "context": {
+          "en": "Native american song",
+          "fr": "Chant amérindien"
         }
       },
       {
@@ -319,6 +454,20 @@
         }
       },
       {
+        "author": "Caius Plinius",
+        "quote": {
+          "en": "True glory consists in doing what deserves to be written; in writing what deserves to be read.",
+          "fr": "La vraie gloire consiste à faire ce qui mérite d'être écrit et écrire ce qui mérite d'être lu."
+        },
+        "keywords": [
+          "Wisdom"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      },
+      {
         "author": "Duke Nukem",
         "quote": {
           "en": "It's time to kick ass and chew bubble gum, and I'm all outta gum!"
@@ -385,6 +534,36 @@
         "context": {
           "en": "Les Tontons flingueurs, 1963",
           "fr": "Les Tontons flingueurs, 1963"
+        }
+      },
+      {
+        "author": "Francis Bacon",
+        "quote": {
+          "en": "Some books are to be tasted, others to be swallowed, and some to be chewed and digested.",
+          "fr": "Certains livres se goûtent, d'autres se dévorent, d'autres encore se mâchent et se digèrent lentement."
+        },
+        "keywords": [
+          "Literature",
+          "Wisdom"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      },
+      {
+        "author": "Hélder Câmara",
+        "quote": {
+          "en": "When I give food to the poor, they call me a saint. When I ask why the poor have no food, they call me a communist.",
+          "fr": "Quand je donne à manger aux pauvres, on me dit que je suis un saint. Quand je demande pourquoi le pauvre n'a pas de nourriture, on me traite de communiste."
+        },
+        "keywords": [
+          "Politics",
+          "Wisdom"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
         }
       },
       {
@@ -522,6 +701,20 @@
         },
         "keywords": [
           "Wisdom"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      },
+      {
+        "author": "Thomas Jefferson",
+        "quote": {
+          "en": "Banking establishments are more dangerous than standing armies.",
+          "fr": "Les établissements bancaires sont plus dangereux qu'une armée en campagne."
+        },
+        "keywords": [
+          "Humour"
         ],
         "context": {
           "en": "",

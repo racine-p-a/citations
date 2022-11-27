@@ -18,6 +18,15 @@
         "photo_avatar": "img/Ἀριστοτέλης.avif"
       }
     },
+    "Ἐπίκτητος": {
+      "name":{
+        "en": "Epictetus",
+        "fr": "Épictète"
+      },
+      "img": {
+        "photo_avatar": ""
+      }
+    },
     "Константи́н Эдуа́рдович Циолко́вский":{
       "name":{
         "en": "Konstantin Eduardovich Tsiolkovsky",
@@ -144,6 +153,15 @@
         "photo_avatar": "img/Francis_Bacon.avif"
       }
     },
+    "François Rabelais":{
+      "name":{
+        "en": "François Rabelais",
+        "fr": "François Rabelais"
+      },
+      "img": {
+        "photo_avatar": "img/François_Rabelais_CC4-0-International.avif"
+      }
+    },
     "George Santayana":{
       "name":{
         "en": "George Santayana",
@@ -189,6 +207,15 @@
         "photo_avatar": "img/John_Adams.avif"
       }
     },
+    "Lucius Annaeus Seneca":{
+      "name":{
+        "en": "Seneca the Younger",
+        "fr": "Sénèque"
+      },
+      "img": {
+        "photo_avatar": "img/Lucius_Annaeus_Seneca-Creative-Commons-Attribution-Share-Alike-30-Unported.avif"
+      }
+    },
     "Maître Folace":{
       "name":{
         "en": "Maître Folace",
@@ -214,6 +241,15 @@
       },
       "img": {
         "photo_avatar": "img/Mark_Twain.avif"
+      }
+    },
+    "Maria Salomea Skłodowska":{
+      "name":{
+        "en": "Marie Salomea Skłodowska–Curie",
+        "fr": " Marie Skłodowska-Curie"
+      },
+      "img": {
+        "photo_avatar": "img/Maria_Salomea_Skłodowska.avif"
       }
     },
     "Napoléon Bonaparte":{
@@ -363,6 +399,19 @@
         }
       },
       {
+        "author": "Ἐπίκτητος",
+        "quote": {
+          "fr": "Dis-toi d'abord ce que tu veux être, puis fais ce qu'il faut pour le devenir."
+        },
+        "keywords": [
+          "Philosophy",
+          "Wisdom"
+        ],
+        "context": {
+          "fr": ""
+        }
+      },
+      {
         "author": "Константи́н Эдуа́рдович Циолко́вский",
         "quote": {
           "en": "The Earth is the cradle of the mind, but one cannot eternally live in a cradle.",
@@ -388,6 +437,58 @@
         ],
         "context": {
           "en": "",
+          "fr": ""
+        }
+      },
+      {
+        "author": "孔子",
+        "quote": {
+          "fr": "Je ne cherche pas à connaître les réponses, je cherche à comprendre les questions."
+        },
+        "keywords": [
+          "Philosophy",
+          "Wisdom"
+        ],
+        "context": {
+          "fr": ""
+        }
+      },
+      {
+        "author": "孔子",
+        "quote": {
+          "fr": "Pour un pauvre, il est difficile d'être sans amertume. Pour un riche, il est facile d'être sans arrogance."
+        },
+        "keywords": [
+          "Philosophy",
+          "Wisdom"
+        ],
+        "context": {
+          "fr": "Les Entretiens de Confucius"
+        }
+      },
+      {
+        "author": "孔子",
+        "quote": {
+          "fr": "Deux hommes qui suivent des voies différentes ne peuvent se rencontrer."
+        },
+        "keywords": [
+          "Philosophy",
+          "Wisdom"
+        ],
+        "context": {
+          "fr": "Entretiens du Maître avec ses disciples"
+        }
+      },
+      {
+        "author": "孔子",
+        "quote": {
+          "fr": "La joie est en tout, il suffit de savoir l'extraire."
+        },
+        "keywords": [
+          "Philosophy",
+          "Wisdom"
+        ],
+        "context": {
           "fr": ""
         }
       },
@@ -784,17 +885,14 @@
         }
       },
       {
-        "author": "Francis Bacon",
+        "author": "François Rabelais",
         "quote": {
-          "en": "Some books are to be tasted, others to be swallowed, and some to be chewed and digested.",
-          "fr": "Certains livres se goûtent, d'autres se dévorent, d'autres encore se mâchent et se digèrent lentement."
+          "fr": "À celui qui sait attendre, tout vient à temps."
         },
         "keywords": [
-          "Literature",
           "Wisdom"
         ],
         "context": {
-          "en": "",
           "fr": ""
         }
       },
@@ -897,6 +995,19 @@
         }
       },
       {
+        "author": "Lucius Annaeus Seneca",
+        "quote": {
+          "fr": "La vie, ce n'est pas d'attendre que l'orage passe, c'est d'apprendre à danser sous la pluie."
+        },
+        "keywords": [
+          "Philosophy",
+          "Wisdom"
+        ],
+        "context": {
+          "fr": ""
+        }
+      },
+      {
         "author": "Maître Folace",
         "quote": {
           "fr": "On a dû arrêter la fabrication, y a des clients qui devenaient aveugles. Alors, ça faisait des histoires !"
@@ -918,6 +1029,20 @@
         },
         "keywords": [
           "Philosophy"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      },
+      {
+        "author": "Maria Salomea Skłodowska",
+        "quote": {
+          "fr": "Dans la vie, rien n'est à craindre, tout est à comprendre."
+        },
+        "keywords": [
+          "Philosophy",
+          "Science"
         ],
         "context": {
           "en": "",

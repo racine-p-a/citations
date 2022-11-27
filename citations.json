@@ -54,6 +54,15 @@
         "photo_avatar": "img/Al_Capone.avif"
       }
     },
+    "Albert Camus":{
+      "name":{
+        "en": "Albert Camus",
+        "fr": "Albert Camus"
+      },
+      "img": {
+        "photo_avatar": "img/Albert_Camus_Photograph-by-United-Press-International-1957.avif"
+      }
+    },
     "André Gide": {
       "name": {
         "en": "André Gide",
@@ -70,6 +79,15 @@
       },
       "img": {
         "photo_avatar": "img/Antoine_de_Saint-Exupéry.avif"
+      }
+    },
+    "Arthur Schopenhauer": {
+      "name": {
+        "en": "Arthur Schopenhauer",
+        "fr": "Arthur Schopenhauer"
+      },
+      "img": {
+        "photo_avatar": "img/Arthur_Schopenhauer.avif"
       }
     },
     "Benjamin Franklin":{
@@ -416,6 +434,92 @@
         }
       },
       {
+        "author": "Albert Camus",
+        "quote": {
+          "fr": "La vraie générosité envers l'avenir consiste à tout donner au présent."
+        },
+        "keywords": [
+          "Philosophy"
+        ],
+        "context": {
+          "fr": "L'Homme révolté, 1951"
+        }
+      },
+      {
+        "author": "Albert Camus",
+        "quote": {
+          "fr": "Il est plus facile de descendre l'échelle sociale que de la remonter."
+        },
+        "keywords": [
+          "Humour"
+        ],
+        "context": {
+          "fr": "Caligula, Acte II, Scène 5"
+        }
+      },
+      {
+        "author": "Albert Camus",
+        "quote": {
+          "fr": "Il faut un jour pour faire un sénateur et dix ans pour faire un travailleur."
+        },
+        "keywords": [
+          "Humour"
+        ],
+        "context": {
+          "fr": "Caligula, Acte II, Scène 5"
+        }
+      },
+      {
+        "author": "Albert Camus",
+        "quote": {
+          "fr": "On se fatigue de la pitié quand la pitié est inutile."
+        },
+        "keywords": [
+          "Humour",
+          "Philosophy"
+        ],
+        "context": {
+          "fr": "La Peste, 1947"
+        }
+      },
+      {
+        "author": "Albert Camus",
+        "quote": {
+          "fr": "Il vient toujours une heure dans l'histoire où celui qui ose dire que deux et deux font quatre est puni de mort."
+        },
+        "keywords": [
+          "Humour",
+          "Philosophy"
+        ],
+        "context": {
+          "fr": "La Peste, 1947"
+        }
+      },
+      {
+        "author": "Albert Camus",
+        "quote": {
+          "fr": "Les hommes ne vivent pas que de justice."
+        },
+        "keywords": [
+          "Philosophy"
+        ],
+        "context": {
+          "fr": "Les Justes, 1950"
+        }
+      },
+      {
+        "author": "Albert Camus",
+        "quote": {
+          "fr": "Mal nommer un objet, c'est ajouter au malheur de ce monde."
+        },
+        "keywords": [
+          "Philosophy"
+        ],
+        "context": {
+          "fr": "Sur une philosophie de l’expression, compte rendu de l’ouvrage de Brice Parain, Recherches sur la nature et la fonction du langage, Albert Camus, 1944"
+        }
+      },
+      {
         "author": "André Gide",
         "quote": {
           "en": "",
@@ -526,6 +630,30 @@
         "context": {
           "en": "The Little Prince, 1943",
           "fr": "Le Petit Prince, 1943"
+        }
+      },
+      {
+        "author": "Arthur Schopenhauer",
+        "quote": {
+          "fr": "Tout enfant est en quelque façon un génie, et tout génie un enfant."
+        },
+        "keywords": [
+          "Philosophy"
+        ],
+        "context": {
+          "fr": ""
+        }
+      },
+      {
+        "author": "Arthur Schopenhauer",
+        "quote": {
+          "fr": "Celui qui se donne la mort voudrait vivre; il n'est mécontent que des conditions dans lesquelles la vie lui est échue."
+        },
+        "keywords": [
+          "Die Welt als Wille und Vorstellung, LIvre II"
+        ],
+        "context": {
+          "fr": ""
         }
       },
       {

@@ -72,6 +72,15 @@
         "photo_avatar": "img/Albert_Camus_Photograph-by-United-Press-International-1957.avif"
       }
     },
+    "Ambroise Croizat":{
+      "name":{
+        "en": "Ambroise Croizat",
+        "fr": "Ambroise Croizat"
+      },
+      "img": {
+        "photo_avatar": "img/Ambroise_Croizat-Creative-Commons-CC0-1-0-Universal-Public-Domain-Dedication.avif"
+      }
+    },
     "André Gide": {
       "name": {
         "en": "André Gide",
@@ -627,6 +636,20 @@
         ],
         "context": {
           "fr": "Sur une philosophie de l’expression, compte rendu de l’ouvrage de Brice Parain, Recherches sur la nature et la fonction du langage, Albert Camus, 1944"
+        }
+      },
+      {
+        "author": "Ambroise Croizat",
+        "quote": {
+          "en": "",
+          "fr": "Ne parlez pas d'acquis sociaux, mais de conquis sociaux, parce que le patronat ne désarme jamais."
+        },
+        "keywords": [
+          "Politics"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
         }
       },
       {

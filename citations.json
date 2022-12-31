@@ -270,6 +270,16 @@
         "photo_avatar": "img/Napoléon_Bonaparte.avif"
       }
     },
+    "Niccolò di Bernardo dei Machiavelli":{
+      "name":{
+        "en": "Niccolò Machiavelli",
+        "fr": "Nicolas Machiavel",
+        "it": "Niccolò Machiavelli"
+      },
+      "img": {
+        "photo_avatar": "img/Niccolò_di_Bernardo_dei_Machiavelli-Public-Domain.avif"
+      }
+    },
     "Patrice de Mac Mahon": {
       "name": {
         "en": "Patrice de Mac Mahon",
@@ -1104,6 +1114,20 @@
         "keywords": [
           "Military",
           "Wisdom"
+        ],
+        "context": {
+          "en": "",
+          "fr": ""
+        }
+      },
+      {
+        "author": "Niccolò di Bernardo dei Machiavelli",
+        "quote": {
+          "fr": "La meilleure forteresse des tyrans, c'est l'inertie des peuples."
+        },
+        "keywords": [
+          "Philosophy",
+          "Politics"
         ],
         "context": {
           "en": "",

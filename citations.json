@@ -288,6 +288,15 @@
         "photo_avatar": "img/Paul_Valéry.avif"
       }
     },
+    "Pierre-Augustin Caron de Beaumarchais": {
+      "name": {
+        "en": "Pierre Beaumarchais",
+        "fr": "Pierre-Augustin Caron de Beaumarchais"
+      },
+      "img": {
+        "photo_avatar": "img/Pierre-Augustin_Caron_de_Beaumarchais-Marie-Lan-Nguyen-Wikimedia-Commons-(Public Domain).avif"
+      }
+    },
     "Raoul Volfoni": {
       "name": {
         "en": "Raoul Volfoni",
@@ -1118,6 +1127,19 @@
         "context": {
           "en": "",
           "fr": ""
+        }
+      },
+      {
+        "author": "Pierre-Augustin Caron de Beaumarchais",
+        "quote": {
+          "fr": "Aux vertus qu'on exige dans un domestique, Votre Excellence connaît-elle beaucoup de maîtres qui fussent dignes d'être valets ?"
+        },
+        "keywords": [
+          "Humour"
+        ],
+        "context": {
+          "en": "The Barber of Seville, 1775",
+          "fr": "Le Barbier de Séville, 1775"
         }
       },
       {
